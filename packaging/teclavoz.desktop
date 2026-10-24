@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=TeclaVoz
+Comment=Teste de digitação com voz (PT-BR / EN)
+Exec=xdg-terminal-exec --app-id=TUI.tile -e teclavoz
+Terminal=false
+Type=Application
+Icon=input-keyboard
+Categories=Education;Game;
+StartupNotify=false
